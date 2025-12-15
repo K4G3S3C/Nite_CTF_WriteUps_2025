@@ -1,4 +1,4 @@
-# NiteCTF 2025 — Team K4G3SC Writeups
+# NiteCTF 2025  Team K4G3SC Writeups
 
 ![NiteCTF 2025 Banner](assets/nitectf-2025-banner.png)
 ![Team Result](assets/team-result.png)
