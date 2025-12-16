@@ -1,4 +1,4 @@
-# Just Another Notes App / \ Web Security
+# Just Another Notes App / \ Web
 
 - CTF: NiteCTF 2025
 - Category: Web
